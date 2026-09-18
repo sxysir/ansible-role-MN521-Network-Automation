@@ -1,0 +1,23 @@
+galaxy_info:
+  author: Sabbir
+  description: MN521 Ansible role for automating Cisco IOS routers R1-HQ and R3-DC
+  company: ""
+
+  license: MIT
+
+  min_ansible_version: 2.10
+
+  platforms:
+    - name: GenericLinux
+      versions:
+        - all
+
+  galaxy_tags:
+    - cisco
+    - ios
+    - networking
+    - automation
+    - ansible
+    - mn521
+
+dependencies: []
