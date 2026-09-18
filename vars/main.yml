@@ -1,0 +1,6 @@
+---
+# Variables for MN521-AnsibleLab-Role
+
+ansible_network_os: ios
+ansible_connection: network_cli
+ansible_user: netadmin
